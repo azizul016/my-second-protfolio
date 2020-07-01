@@ -58,7 +58,6 @@ section{
 }
 .latest-work-img img{
     width: 100%;
-    height: 400px;
 }
 .latest-work-bg{
     background-image: url(images/latest-work-bg.png);
