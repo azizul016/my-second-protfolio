@@ -5,9 +5,8 @@ body{
     margin: 0;
 }
 h1{
-    font-weight: 700;
+    font-weight: 600;
     font-size: 40px;
-  
 }
 .color-highlight{
     color: #EC4C7A;
@@ -17,14 +16,12 @@ p{
     color: dimgrey;
     font-size: 15px;
     margin-bottom: 40px;
- 
 }
 .half-width{
     width: 40%;
     float: left;
     margin-left: 5%;
     padding-left: 2%;
-
 }
 .half-width img{
     width: 100%;
@@ -49,6 +46,10 @@ section{
     background-image: url(images/header-bg.png);
     background-repeat: no-repeat;
 }
+.biography-bg{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+}
 .latest-work-img{
     width: 29%;
     margin-left: 2%;
@@ -62,6 +63,7 @@ section{
 .latest-work-bg{
     background-image: url(images/latest-work-bg.png);
     background-repeat: no-repeat;
+    margin-top: 100px;
 }
 .latest-work-bg h1{
     text-align: center;
@@ -70,10 +72,13 @@ section{
     text-align: center;
     background-image: url(images/footer-bg.png);
     background-repeat: no-repeat;
+    height: 800px;
 }
 .footer-bg .bold{
     font-weight: 700;
     color: #202428;
+    font-size: 14px;
+    margin-top: 45px;
 }
 .footer-bg p{
     font-size: 10px;
@@ -84,58 +89,25 @@ section{
     padding: 10px 25px;
     width: 600px;
     margin: 0 auto;
-    margin-bottom: 130px;
+    margin-bottom: 100px;
     margin-top: 70px;
 }
 .programming-hero p{
     color: white;
     font-weight: 500;
+    font-size: 14px;
 }
 .programming-hero h4{
     color: white;
     font-weight: 700;
+    font-size: 20px;
 }
 .social-link{
     margin: 0 auto;
-    text-align: center;
-
+    margin-bottom: 40px;
 }
 .social-button img{
-    width: 100px;
-    height: 100px;
-}
-.social-button img{
-    float: left;
+    width: 80px;
+    height: 80px;
     margin: 0 auto;
-    text-align: center;
-    padding: 5px 10px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*.link-margin-top{
-    margin-top: 30px;
-}*/
