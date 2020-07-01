@@ -44,18 +44,19 @@ section{
     font-weight: 700;
 }
 .link-button:hover{
-    background-image: linear-gradient(45deg,  #ED4B73, #EC5095);
+    background-image: linear-gradient(45deg,  #ff3366, #d65a92);
 }
 .top-banner{
     background-image: url(images/header-bg.png);
     background-repeat: no-repeat;
     height: 600px;
-    padding: 0 30px;
+    padding: 0 55px;
 }
 .biography-bg{
     background-image: url(images/biography-bg.png);
     background-repeat: no-repeat;
     height: 600px;
+    padding: 0 40px;
 }
 .latest-work-img{
     width: 29%;
