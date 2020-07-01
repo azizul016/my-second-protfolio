@@ -62,7 +62,7 @@ section{
 .latest-work-bg{
     background-image: url(images/latest-work-bg.png);
     background-repeat: no-repeat;
-    margin-top: 100px;
+    padding: 100px;
 }
 .latest-work-bg h1{
     text-align: center;
